@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-item {
+  margin-right: 0px;
+}
+.button1 {
+  color: #7b8794;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  font-family: 'Roboto';
+  border: none;
+  font-size: 16px;
+  border-bottom: 2px solid #dfe2e5;
+  width: 90px;
+  text-align: center;
+}
+.active {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 3px;
+}
